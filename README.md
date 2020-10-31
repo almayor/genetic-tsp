@@ -13,6 +13,7 @@
 ![](resources/25_distance_generation.png)
 
 * Snapshot of each generation (with freeze on finish)
+
 ![](resources/25-cities-evolution.gif)
 
 ### 50 cities
@@ -21,6 +22,7 @@
 ![](resources/50_distance_generation.png)
 
 * Snapshot of every 10th generation (with freeze on finish)
+
 ![](resources/50-cities-evolution.gif)
 
 ### 100 cities
@@ -29,4 +31,5 @@
 ![](resources/100_distance_generation.png)
 
 * Snapshot of every 10th generation (with freeze on finish)
+
 ![](resources/100-cities-evolution.gif)
